@@ -114,8 +114,8 @@ Contributions are welcome! If you'd like to contribute to this project, please f
 
 If you have any questions or suggestions regarding the project, feel free to reach out to the project maintainer:
 
-- **Your Name**: [your.email@example.com](mailto:your.email@example.com)
-- GitHub: [YourGitHubUsername](https://github.com/YourGitHubUsername)
+- **jeethu LA**: jeethula10@gmail.com
+- GitHub: jeethula
 
 ---
 
